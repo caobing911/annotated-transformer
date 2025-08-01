@@ -1,5 +1,5 @@
 
-Bing Cao (bic020@ucsd.edu) 2025-07-31, I forked the repo and detatch with the original one.
+Bing Cao (bic020@ucsd.edu) 2025-07-31, I forked the repo and detach with the original one.
 
 ---
 
