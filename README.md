@@ -1,3 +1,9 @@
+
+Bing Cao (bic020@ucsd.edu) 2025-07-31, I forked the repo and detatch with the original one.
+
+---
+
+
 Code for The Annotated Transformer blog post:
 
 http://nlp.seas.harvard.edu/annotated-transformer/
